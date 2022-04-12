@@ -23,7 +23,7 @@ body{
     width: 300px;
     height: 380px;
     background: url(./sat2.png);
-    background-size: 300px;
+    background-size: 500px;
     background-repeat: no-repeat;
 }
 .scan .finger::before{
@@ -35,7 +35,7 @@ body{
     height: 100%;
     background: url(./sat.png);
     background-repeat: no-repeat;
-    background-size: 300px;
+    background-size: 500px;
     animation: animate 4s ease-in-out infinite;
 
 }
@@ -81,7 +81,7 @@ body{
     color: #3fefef;
     filter: drop-shadow(0 0 20px #3fefef) drop-shadow(0 0 60px #3fefef);
     animation: animate_line 4s ease-in-out infinite;
-    animation: animate_text 1s steps(1) infinite;
+    animation: animate_text 2s steps(1) infinite;
 }
 @keyframes animate_text
 {
