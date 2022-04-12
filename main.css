@@ -20,7 +20,7 @@ body{
 }
 .scan .finger{
     position: relative;
-    width: 300px;
+    width: 500px;
     height: 380px;
     background: url(./sat2.png);
     background-size: 500px;
